@@ -21,13 +21,13 @@ Este projeto foi desenvolvido como parte do desafio do primeiro modulo do curso 
 2. Clone este repositório executando o seguinte comando no terminal:
 
    ```bash
-   git clone 
+   git clone https://github.com/JuandaSilvaa/agenda-python.git
    ```
 
 3. Navegue até a pasta do projeto:
 
    ```bash
-   cd seu-repositorio
+   cd agenda-python
    ```
 
 4. Execute o seguinte comando para iniciar o programa:
